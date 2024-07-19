@@ -7,7 +7,7 @@ My code for the heatmap I shared in my [LinkedIn post](https://www.linkedin.com/
 - `heatmap.ipynb`: Shows revisions I made based on feedback
 
 ## Background
-For more background information check out my blog post: [Blog Post Title]()
+For more background information check out my blog post [here](https://www.kellyjadams.com/post/why-your-first-draft-wont-be-perfect-a-data-project).
 
 ## Notes
 This has been revised from my original heatmap I made, see my blog post [Heat Map Example](https://www.kellyjadams.com/post/heatmap-example-for-linkedin-post-7-12-24) for that. 
